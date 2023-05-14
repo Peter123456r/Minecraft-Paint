@@ -1,0 +1,45 @@
+{
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2023-04-22 18:32:07 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2023-04-22 18:33:45 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2023-04-22 18:33:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie_villager": "2023-04-22 18:33:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie_villager": "2023-04-22 18:33:58 +0300"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2023-04-22 15:43:47 +0300",
+      "minecraft:taiga": "2023-04-22 19:09:32 +0300",
+      "minecraft:taiga_hills": "2023-04-29 23:54:47 +0300",
+      "minecraft:beach": "2023-04-29 23:47:40 +0300",
+      "minecraft:river": "2023-04-29 23:51:51 +0300",
+      "minecraft:wooded_hills": "2023-04-22 15:43:19 +0300",
+      "minecraft:plains": "2023-04-29 23:16:01 +0300"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}
