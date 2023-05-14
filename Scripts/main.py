@@ -117,7 +117,7 @@ def Expectations():
     running = True
     screen.fill(Red)
     BackButton = UI.Button(x=40, y=HT - 80, color=Green, colorDark=(0, 200, 0), width=80, height=40, display=screen)
-    pyquark.filestart('Minecraft/MinecraftTools/server/start.command')
+    pyquark.filestart('../Minecraft/MinecraftTools/server/start.command')
     while running:
         for event in pygame.event.get():
             if event.type == pygame.QUIT:
